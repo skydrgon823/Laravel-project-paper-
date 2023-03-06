@@ -1,0 +1,240 @@
+.search-style-2 form input{border-radius:26px; border:0;background-color:#f2f3f8;}
+#header-bottom-custome{background-color:white; }
+#header{margin:0; padding:0; background-color:white}
+.main-menu.main-menu-light-white>nav>ul>li>a {color:black}
+/* .far{float:right} */
+.main-categories-wrap>a{color:#18327a}
+.hotline p {color:#18327a}
+
+main{background-image:url("http://localhost:8000/storage/2.png")}
+--------------------------------------------------------------header------------------------------------------------------------------------
+.page-header .breadcrumb{display:none!important;}
+
+--------------------------------------------------------------footer-------------------------------------------------------------------------
+.footer-list li{margin:0 0 26px 0 !important;}
+@media only screen and (max-width: 575px) {
+  #site-info1{
+    display: none;
+  }}
+  @media only screen and (max-width: 575px) {
+  #site-info2{
+    display: flex;
+    flex-wrap:wrap;
+  }
+}
+ @media only screen and (min-width: 575px) {
+  #site-info2{
+    display: none;
+  }
+}
+@media only screen and (max-width: 575px) {
+  #orign-mail{
+    display: none;
+  }}
+@media only screen and (max-width: 575px) {
+  #modify-mail{
+    display: block;
+  }}
+ @media only screen and (min-width: 575px) {
+  #modify-mail{
+    display: none;
+  }
+}
+--------------------------------------------------------------home---------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+.form-group--icon {display:none}
+.up far fa-chevron-up{display:none}
+-------------------------------------------------------------------blog------------------------------------------------------------------
+main .container-fluid{
+    /* background-color: #f7f9fa; */
+    background-image:url("../../2.png")
+}
+main h1 {
+    padding-top: 81px;
+    padding-bottom: 73px;
+    margin: 0;
+    font-size: 42px;
+    color: #18327a;
+}
+main .subpart {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 26px;
+    margin-bottom: 52px;
+}
+main .hygiene1 {
+    background-image: url("http://localhost:8000/storage/blog-images/1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .covid1 {
+    background-image: url("http://localhost:8000/storage/blog-images/2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .healthcare1 {
+    background-image: url("http://localhost:8000/storage/blog-images/3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .covid2 {
+    background-image: url("http://localhost:8000/storage/blog-images/4.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .hygiene2 {
+    background-image: url("http://localhost:8000/storage/blog-images/5.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .healthcare2 {
+    background-image: url("http://localhost:8000/storage/blog-images/6.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .hygiene3 {
+    background-image: url("http://localhost:8000/storage/blog-images/7.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .covid3 {
+    background-image: url("http://localhost:8000/storage/blog-images/8.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .healthcare3 {
+    background-image: url("http://localhost:8000/storage/blog-images/9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 336px;
+    padding-left: 20px;
+    border-radius: 16px;
+    position: relative;
+}
+main .subtitle {
+    background-color: #18327a;
+    color: #fff;
+    font-size: 12px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    display: inline-block;
+    position: absolute;
+    top:15px;
+}
+main .subcontent {
+    color: #18327a;
+    padding-right: 25px;
+}
+main .subcontent p {
+    font-size: 14px;
+}
+main .subcontent h3 {
+    font-size: 22px;
+}
+main .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 62px;
+    font-size: 18px;
+}
+main .pagination a {
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+main .pagination a.active, main .pagination a:active {
+    background-color: #18327a;
+    color: #fff;
+    margin: 6px 10px;
+    padding: 2px 8px;
+    border-radius: 50%;
+}
+@media screen and (max-width:768px) {
+    main h1 {
+        padding: 25px 0;
+        font-size: 26px;
+    }
+    main .subpart {
+        display: block;
+        width: 100%;
+    }
+    main .subrow {
+        margin-bottom: 30px;
+    }
+    main .subcontent h3 {
+        font-size: 20px;
+    }
+    main .subpart1:nth-last-child() {
+        display: none;
+    }
+    main .subpart2:nth-last-child(odd) {
+        display: none;
+    }
+    main .subpart3 {
+        display: none;
+    }
+}
+-------------------------------------------------------------------Nachhaltigkeit---------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+.widget-about{display:flex}
+.account-info1{color:yellow;font-size:14px}

@@ -102,7 +102,7 @@
     <script>
         $(document).ready(function() {
             
-            $(".owl-carousel").owlCarousel({
+            $(".owl-carousel-d").owlCarousel({
                 loop: true,
                 navigation : false, 
            
@@ -110,6 +110,26 @@
                 paginationSpeed : 400,
            
                 items : 1, 
+                itemsDesktop : false,
+                itemsDesktopSmall : false,
+                itemsTablet: false,
+                itemsMobile : false
+           
+            });
+           
+          });
+      </script>
+          <script>
+        $(document).ready(function() {
+            
+            $(".owl-carousel-md").owlCarousel({
+                loop: true,
+                navigation : false, 
+           
+                slideSpeed : 300,
+                paginationSpeed : 400,
+           
+                items : 2, 
                 itemsDesktop : false,
                 itemsDesktopSmall : false,
                 itemsTablet: false,

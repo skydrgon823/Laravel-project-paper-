@@ -56,7 +56,7 @@
                     class="fa-regular fa-envelope"
                     style="font-size: 14px; color: #18327a; margin-right: 10px"
                 ></i
-                    >&nbsp; office@papierservice.at
+                    >&nbsp; thomas.schartner@papierservice.at
         </div>
     </div>
     <div id="modify-mail">

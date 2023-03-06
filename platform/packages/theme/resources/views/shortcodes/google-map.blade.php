@@ -11,9 +11,9 @@
                             <p class="phone mb-5 mb-md-6"><a href="tel:+43263274509"><i class="fa fa-phone"
                                         style="color:#12a05c; "></i> <span
                                         class="font-size-28 font-weight-600 p-font-sw" style="color:#18327a">+43 2632 74 509</span></a></p>
-                            <p class="email mb-5 mb-md-7"><a href="mailto:office@papierservice.at"><i
+                            <p class="email mb-5 mb-md-7"><a href="thomas.schartner@papierservice.at"><i
                                         class="fa fa-envelope" style="color:#12a05c; padding-top:2px"></i> <span
-                                        class="font-size-18 p-font-sw" style="color:#18327a">office@papierservice.at</span></a></p>
+                                        class="font-size-18 p-font-sw" style="color:#18327a">thomas.schartner@papierservice.at</span></a></p>
                             <p class="address mb-5 mb-md-7"><i class="fa fa-map-marker"
                                     style="color:#12a05c; padding-top:15px"></i> <span
                                     class="font-size-18 p-font-sw">Haupstrasse 9, <br>2763 Pernitz, Austria</span></p>

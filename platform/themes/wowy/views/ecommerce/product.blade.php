@@ -381,7 +381,7 @@ fa-linkedin"></i></a>
                         erreichen uns von Montag-Donnerstag in der Zeit von<br>
                     </p>
                     <h4 class="font-size-18">Produkt - und Serviceberatung</h4>
-                    <a class="d-block font-size-14" href="#" style="text-decoration:underline">office@papierservice.at</a>
+                    <a class="d-block font-size-14" href="#" style="text-decoration:underline">thomas.schartner@papierservice.at</a>
                 </div>
             </div>
 
