@@ -267,7 +267,20 @@
                 });
             </script>
         @endif
-          <script>  
+        <script>
+                setTimeout(() => {
+                    
+                    $(".video").click();
+                    $(".video")[0].autoplay = true;
+                    $(".video")[0].muted = true;
+                    $(".video")[0].loop = true;
+                    $(".video")[0].load()
+                }, 10000)
+            
+            // });
+        </script>
+        
+          <!-- <script>  
         const element = document.querySelector(".carousel1");
         element.addEventListener('wheel', (event) => {
         event.preventDefault();
@@ -275,8 +288,8 @@
         left: event.deltaY < 0 ? -500 : 500,    
         });
       });
-    </script>
-    <script>
+    </script> -->
+    <!-- <script>
         const el=document.getElementsByClassName("carousel1")[0];
         const prevbtn=document.getElementsByClassName("prev")[0],
               nextbtn=document.getElementsByClassName("next")[0];
@@ -328,6 +341,6 @@
       let width = carousel.offsetWidth;
       
       window.addEventListener("resize", (e) => (width = carousel.offsetWidth));
-    </script>
+    </script> -->
     </body>
 </html>

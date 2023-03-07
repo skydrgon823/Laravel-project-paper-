@@ -66,7 +66,7 @@
                     class="fa-regular fa-envelope"
                     style="font-size: 14px; color: #18327a; margin-right: 10px"
                 ></i
-                    >&nbsp; office@papierservice.at
+                    >&nbsp; thomas.schartner@papierservice.at
         </div>
         <div style="border-bottom: 1px solid #b9c1d7; margin:30px 0; width: 100%;"></div>
     </div>
